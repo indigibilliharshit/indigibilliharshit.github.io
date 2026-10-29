@@ -15,6 +15,7 @@ I'm Indigibilli Harshit, a full-stack software engineer who builds web products,
 - [ORCID](https://orcid.org/0009-0000-3495-9584)
 - https://www.kaggle.com/harshitindigibilli
 - https://www.wikidata.org/wiki/Q141915991
+- https://www.researchgate.net/profile/Indigibilli-Harshit
 
 ## Publication
 
@@ -35,7 +36,7 @@ I'm Indigibilli Harshit, a full-stack software engineer who builds web products,
 - [RHPA: Roadkill Hotspots and Policy Advocacy](https://indigibilliharshit.github.io/work/rhpa): RHPA uses DenseNet, ResNet and YOLOv5xu with IoT to detect animals on high-risk roads and alert drivers. First at IBM ICE Ideathon 2025, in IEEE Xplore.
 - [Eco-Yatra](https://indigibilliharshit.github.io/work/eco-yatra): Eco-Yatra tracks carbon emissions and suggests eco-friendly routes with ML and data analytics. First place, Sustainable Cities theme, WATCH Hackathon 2024.
 - [Land cover classification, Delhi-NCR](https://indigibilliharshit.github.io/work/land-cover-delhi-ncr): An end-to-end land cover pipeline for Delhi-NCR by Indigibilli Harshit, with grid generation, ESA WorldCover labels, ResNet18 classification and an interactive map.
-- [Data-driven drug discovery demo](https://indigibilliharshit.github.io/work/drug-discovery-demo): A technical paper on how ML and big data can speed up drug discovery, with an ML prototype demo. Winner, IBM ICE Technical Paper Presentation 2024.
+- [Data-driven drug discovery demo](https://indigibilliharshit.github.io/work/drug-discovery-demo): A technical paper on how ML and big data can speed up drug discovery, with an ML prototype demo. Runner-up, IBM ICE Technical Paper Presentation 2024.
 
 ## Journal
 
