@@ -1,0 +1,50 @@
+# Indigibilli Harshit
+
+> Full-stack software engineer building web products, backend systems and applied AI. (Also written Harshit Indigibilli, I. Harshit, Harshit I.)
+
+Now: Software Development Engineer (SDE) at EarthSense Labs. Core team member on GeoTwin 4D, a geospatial digital twin platform.
+
+I'm Indigibilli Harshit, a full-stack software engineer who builds web products, backend systems and applied AI. I designed a multi-backend platform at IIT Delhi, trained deep learning models on 70+ GB of radio data at NIT Rourkela, and shipped ML into production at The Social Ants. I like owning problems end to end.
+
+## Profiles
+
+- [Portfolio](https://indigibilliharshit.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/indigibilliharshit)
+- [GitHub](https://github.com/indigibilliharshit)
+- [Google Scholar](https://scholar.google.com/citations?user=UOfCOHsAAAAJ)
+- [ORCID](https://orcid.org/0009-0000-3495-9584)
+- https://www.kaggle.com/harshitindigibilli
+- https://www.wikidata.org/wiki/Q141915991
+
+## Publication
+
+- L. Patra, I. Harshit, S. K. Mohapatra, A. Singh, and M. N. Mohanty. "Roadkill Hotspots and Policy Advocacy (RHPA): A Multi-Layered AI and IoT Approach for Real-Time Wildlife Preservation". 2026 International Conference on Emerging Systems and Intelligent Computing (ESIC), Bhubaneswar, India, pp. 139 to 141. DOI 10.1109/ESIC68176.2026.11495994. https://ieeexplore.ieee.org/document/11495994
+
+## Pages
+
+- [About](https://indigibilliharshit.github.io/about): background and how he works
+- [Experience](https://indigibilliharshit.github.io/experience): roles and research internships
+- [Publications and awards](https://indigibilliharshit.github.io/publications)
+- [Contact](https://indigibilliharshit.github.io/contact)
+
+## Case studies
+
+- [A multi-backend platform for a 4D digital twin](https://indigibilliharshit.github.io/work/digital-twin-platform): Indigibilli Harshit engineered a multi-backend architecture at HydroSense Lab, IIT Delhi, joining real-time and historical spatial data in one 4D digital twin.
+- [IPED precipitation dashboard](https://indigibilliharshit.github.io/work/iped-dashboard): A FastAPI and React (TypeScript) dashboard by Indigibilli Harshit for exploring 32 years of daily gridded rainfall from the Indian Precipitation Ensemble Dataset.
+- [RF fingerprinting with deep learning (RFFI)](https://indigibilliharshit.github.io/work/rf-fingerprinting): Indigibilli Harshit collected 70+ GB of RF data with software defined radio and GNU Radio, then trained deep learning models for RF fingerprint identification.
+- [RHPA: Roadkill Hotspots and Policy Advocacy](https://indigibilliharshit.github.io/work/rhpa): RHPA uses DenseNet, ResNet and YOLOv5xu with IoT to detect animals on high-risk roads and alert drivers. First at IBM ICE Ideathon 2025, in IEEE Xplore.
+- [Eco-Yatra](https://indigibilliharshit.github.io/work/eco-yatra): Eco-Yatra tracks carbon emissions and suggests eco-friendly routes with ML and data analytics. First place, Sustainable Cities theme, WATCH Hackathon 2024.
+- [Land cover classification, Delhi-NCR](https://indigibilliharshit.github.io/work/land-cover-delhi-ncr): An end-to-end land cover pipeline for Delhi-NCR by Indigibilli Harshit, with grid generation, ESA WorldCover labels, ResNet18 classification and an interactive map.
+- [Data-driven drug discovery demo](https://indigibilliharshit.github.io/work/drug-discovery-demo): A technical paper on how ML and big data can speed up drug discovery, with an ML prototype demo. Winner, IBM ICE Technical Paper Presentation 2024.
+
+## Journal
+
+- [The POC that became six months at IIT Delhi](https://indigibilliharshit.github.io/journal/poc-to-iit-delhi): How a proof of concept for Prof. Manabendra Saharia turned into a six-month research internship at HydroSense Lab, IIT Delhi.
+- [From a roadside question to IEEE Xplore](https://indigibilliharshit.github.io/journal/roadside-question-to-ieee): The story behind RHPA, an AI and IoT system for preventing wildlife road accidents, published in IEEE Xplore at ESIC 2026.
+- [Notes from Day 1 at the IndiaAI Summit](https://indigibilliharshit.github.io/journal/indiaai-summit-day-1): Day 1 at the IndiaAI Summit: startup stalls, ideas that had already become real products, and conversations with the people building them.
+- [Pokémon GO for engineers: collecting 70 GB of invisible signals](https://indigibilliharshit.github.io/journal/invisible-signals-70gb): Collecting 70+ GB of RF data with software defined radio and training deep learning models for RF fingerprint identification at NIT Rourkela.
+- [Waitlist 1: the "almost" that shaped my research journey](https://indigibilliharshit.github.io/journal/waitlist-1): Waitlisted at IIT Gandhinagar, then selected for the Summer Research Internship at NIT Rourkela: what asking for feedback after a rejection taught me.
+- [How a question about roadkill won the IBM ICE Ideathon](https://indigibilliharshit.github.io/journal/roadkill-ibm-ice-ideathon): RHPA uses DenseNet, ResNet and YOLOv5xu to detect animals near roads and alert drivers. It won the IBM ICE Ideathon 2025.
+- [Teaching robotics, and making the morning paper](https://indigibilliharshit.github.io/journal/teaching-robotics): A robotics workshop at Rajadhani College, Bhubaneswar, featuring the reconfigurable Smorphi robot and covered by The Daily Pioneer.
+- [Eco-Yatra and a weekend at the WATCH Hackathon](https://indigibilliharshit.github.io/journal/eco-yatra-watch-hackathon): Eco-Yatra, a carbon-tracking sustainable travel app, won first place in the Sustainable Cities theme at the WATCH Hackathon 2024.
+- [What I learned presenting data-driven drug discovery](https://indigibilliharshit.github.io/journal/drug-discovery-ibm-ice-day): A technical paper on data-driven drug discovery and an ML prototype for personalised suggestions, presented at IBM ICE Day 2024.
