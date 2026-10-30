@@ -4,7 +4,7 @@
 
 Now: Software Development Engineer (SDE) at EarthSense Labs. Core team member on GeoTwin 4D, a geospatial digital twin platform.
 
-I'm Indigibilli Harshit, a full-stack software engineer who builds web products, backend systems and applied AI. I built geospatial dashboards and visualisation systems at IIT Delhi, trained deep learning models on 70+ GB of radio data at NIT Rourkela, and shipped ML into production at The Social Ants. I like owning problems end to end.
+Indigibilli Harshit is a full-stack software engineer who builds web products, backend systems and applied AI. He built geospatial dashboards and visualisation systems at IIT Delhi, trained deep learning models on 70+ GB of radio data at NIT Rourkela, and shipped ML into production at The Social Ants. He likes owning problems end to end.
 
 ## Profiles
 
