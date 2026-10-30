@@ -4,7 +4,7 @@
 
 Now: Software Development Engineer (SDE) at EarthSense Labs. Core team member on GeoTwin 4D, a geospatial digital twin platform.
 
-I'm Indigibilli Harshit, a full-stack software engineer who builds web products, backend systems and applied AI. I designed a multi-backend platform at IIT Delhi, trained deep learning models on 70+ GB of radio data at NIT Rourkela, and shipped ML into production at The Social Ants. I like owning problems end to end.
+I'm Indigibilli Harshit, a full-stack software engineer who builds web products, backend systems and applied AI. I built geospatial dashboards and visualisation systems at IIT Delhi, trained deep learning models on 70+ GB of radio data at NIT Rourkela, and shipped ML into production at The Social Ants. I like owning problems end to end.
 
 ## Profiles
 
@@ -30,7 +30,7 @@ I'm Indigibilli Harshit, a full-stack software engineer who builds web products,
 
 ## Case studies
 
-- [A multi-backend platform for a 4D digital twin](https://indigibilliharshit.github.io/work/digital-twin-platform): Indigibilli Harshit engineered a multi-backend architecture at HydroSense Lab, IIT Delhi, joining real-time and historical spatial data in one 4D digital twin.
+- [GeoTwin 4D: a multi-backend platform for a 4D digital twin](https://indigibilliharshit.github.io/work/digital-twin-platform): GeoTwin 4D is EarthSense Labs' geospatial digital twin platform. Indigibilli Harshit is on its core team, working on the multi-backend architecture.
 - [IPED precipitation dashboard](https://indigibilliharshit.github.io/work/iped-dashboard): A FastAPI and React (TypeScript) dashboard by Indigibilli Harshit for exploring 32 years of daily gridded rainfall from the Indian Precipitation Ensemble Dataset.
 - [RF fingerprinting with deep learning (RFFI)](https://indigibilliharshit.github.io/work/rf-fingerprinting): Indigibilli Harshit collected 70+ GB of RF data with software defined radio and GNU Radio, then trained deep learning models for RF fingerprint identification.
 - [RHPA: Roadkill Hotspots and Policy Advocacy](https://indigibilliharshit.github.io/work/rhpa): RHPA uses DenseNet, ResNet and YOLOv5xu with IoT to detect animals on high-risk roads and alert drivers. First at IBM ICE Ideathon 2025, in IEEE Xplore.
