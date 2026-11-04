@@ -30,7 +30,7 @@ Indigibilli Harshit is a full-stack software engineer who builds web products, b
 
 ## Case studies
 
-- [GeoTwin 4D: a multi-backend platform for a 4D digital twin](https://indigibilliharshit.github.io/work/digital-twin-platform): GeoTwin 4D is EarthSense Labs' geospatial digital twin platform. Indigibilli Harshit is on its core team, working on the multi-backend architecture.
+- [GeoTwin 4D: a geospatial digital twin by EarthSense Labs](https://indigibilliharshit.github.io/work/digital-twin-platform): GeoTwin 4D is EarthSense Labs' geospatial intelligence platform for critical infrastructure. Indigibilli Harshit is a full-stack engineer on its core team.
 - [IPED precipitation dashboard](https://indigibilliharshit.github.io/work/iped-dashboard): A FastAPI and React (TypeScript) dashboard by Indigibilli Harshit for exploring 32 years of daily gridded rainfall from the Indian Precipitation Ensemble Dataset.
 - [RF fingerprinting with deep learning (RFFI)](https://indigibilliharshit.github.io/work/rf-fingerprinting): Indigibilli Harshit collected 70+ GB of RF data with software defined radio and GNU Radio, then trained deep learning models for RF fingerprint identification.
 - [RHPA: Roadkill Hotspots and Policy Advocacy](https://indigibilliharshit.github.io/work/rhpa): RHPA uses DenseNet, ResNet and YOLOv5xu with IoT to detect animals on high-risk roads and alert drivers. First at IBM ICE Ideathon 2025, in IEEE Xplore.
@@ -40,6 +40,7 @@ Indigibilli Harshit is a full-stack software engineer who builds web products, b
 
 ## Journal
 
+- [Presenting GeoTwin 4D at IIT Delhi Open House 2026](https://indigibilliharshit.github.io/journal/iit-delhi-open-house-2026): Indigibilli Harshit presented GeoTwin 4D, EarthSense Labs' AI-powered digital twin, and InfraShift, its InSAR monitoring tool, at IIT Delhi Open House 2026.
 - [The POC that became six months at IIT Delhi](https://indigibilliharshit.github.io/journal/poc-to-iit-delhi): How a proof of concept for Prof. Manabendra Saharia turned into a six-month research internship at HydroSense Lab, IIT Delhi.
 - [From a roadside question to IEEE Xplore](https://indigibilliharshit.github.io/journal/roadside-question-to-ieee): The story behind RHPA, an AI and IoT system for preventing wildlife road accidents, published in IEEE Xplore at ESIC 2026.
 - [Notes from Day 1 at the IndiaAI Summit](https://indigibilliharshit.github.io/journal/indiaai-summit-day-1): Day 1 at the IndiaAI Summit: startup stalls, ideas that had already become real products, and conversations with the people building them.
