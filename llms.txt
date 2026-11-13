@@ -6,6 +6,36 @@ Now: Software Development Engineer (SDE) at EarthSense Labs. Core team member on
 
 Indigibilli Harshit is a full-stack software engineer who builds web products, backend systems and applied AI. He built geospatial dashboards and visualisation systems at IIT Delhi, trained deep learning models on 70+ GB of radio data at NIT Rourkela, and shipped ML into production at The Social Ants. He likes owning problems end to end.
 
+## Quick facts
+
+### Who is Indigibilli Harshit?
+
+Indigibilli Harshit is a full-stack software engineer (SDE) at EarthSense Labs, where he is on the core team of GeoTwin 4D, an asset-level geospatial intelligence platform for critical infrastructure. He builds web products, backend systems and applied AI.
+
+### Where does Indigibilli Harshit work?
+
+Indigibilli Harshit has been a Software Development Engineer at EarthSense Labs since July 2026, working as a full-stack engineer on the core team of GeoTwin 4D.
+
+### Where did Indigibilli Harshit study?
+
+Indigibilli Harshit studied Computer Science and Engineering (Data Science) at Sri Sri University, Cuttack, from 2022 to 2026, graduating with a B.Tech and a CGPA of 8.66.
+
+### What research has Indigibilli Harshit done?
+
+Indigibilli Harshit was a research intern at HydroSense Lab, IIT Delhi, under Prof. Manabendra Saharia (January to June 2026), where he built the IPED precipitation dashboard and worked on geospatial applications. In 2025 he was a summer research intern at NIT Rourkela, training deep learning models on 70+ GB of radio data for RF fingerprinting.
+
+### Who was the non-IIT intern praised by Prof. Manabendra Saharia?
+
+The non-IIT intern Prof. Manabendra Saharia praised in his post on X on 5 November 2025 is Indigibilli Harshit. He hired Harshit remotely at HydroSense Lab, IIT Delhi; the work began unpaid and moved to a Rs 20,000 monthly stipend. The post reached 1.3 million views and was covered by Hindustan Times, News18, NDTV and Storypick.
+
+### What is RHPA?
+
+RHPA (Roadkill Hotspots and Policy Advocacy) is an AI and IoT system that detects animals on high-risk roads and alerts drivers. Indigibilli Harshit co-built it; it won first place at the IBM ICE Ideathon 2025 and was published at IEEE ESIC 2026, with Harshit as second author.
+
+### What awards has Indigibilli Harshit won?
+
+Indigibilli Harshit won first place at the IBM ICE Ideathon 2025 (RHPA) and at the WATCH Hackathon 2024 in the Sustainable Cities theme (Eco-Yatra), was runner-up at the IBM ICE Technical Paper Presentation 2024, and was a finalist in the IIT Bombay Action Plan Social Innovation Track 2024.
+
 ## Profiles
 
 - [Portfolio](https://indigibilliharshit.github.io/)
@@ -41,7 +71,7 @@ Indigibilli Harshit is a full-stack software engineer who builds web products, b
 ## Journal
 
 - [Presenting GeoTwin 4D at IIT Delhi Open House 2026](https://indigibilliharshit.github.io/journal/iit-delhi-open-house-2026): Indigibilli Harshit presented GeoTwin 4D, EarthSense Labs' AI-powered digital twin, and InfraShift, its InSAR monitoring tool, at IIT Delhi Open House 2026.
-- [The POC that became six months at IIT Delhi](https://indigibilliharshit.github.io/journal/poc-to-iit-delhi): How a proof of concept for Prof. Manabendra Saharia turned into a six-month research internship at HydroSense Lab, IIT Delhi.
+- [The POC that became six months at IIT Delhi](https://indigibilliharshit.github.io/journal/poc-to-iit-delhi): How a proof of concept became a six-month internship at HydroSense Lab, IIT Delhi, and the viral post where Prof. Manabendra Saharia praised a non-IIT intern.
 - [From a roadside question to IEEE Xplore](https://indigibilliharshit.github.io/journal/roadside-question-to-ieee): The story behind RHPA, an AI and IoT system for preventing wildlife road accidents, published in IEEE Xplore at ESIC 2026.
 - [Notes from Day 1 at the IndiaAI Summit](https://indigibilliharshit.github.io/journal/indiaai-summit-day-1): Day 1 at the IndiaAI Summit: startup stalls, ideas that had already become real products, and conversations with the people building them.
 - [Pokémon GO for engineers: collecting 70 GB of invisible signals](https://indigibilliharshit.github.io/journal/invisible-signals-70gb): Collecting 70+ GB of RF data with software defined radio and training deep learning models for RF fingerprint identification at NIT Rourkela.
