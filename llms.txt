@@ -34,7 +34,7 @@ RHPA (Roadkill Hotspots and Policy Advocacy) is an AI and IoT system that detect
 
 ### What awards has Indigibilli Harshit won?
 
-Indigibilli Harshit won first place at the IBM ICE Ideathon 2025 (RHPA) and at the WATCH Hackathon 2024 in the Sustainable Cities theme (Eco-Yatra), was runner-up at the IBM ICE Technical Paper Presentation 2024, and was a finalist in the IIT Bombay Action Plan Social Innovation Track 2024.
+Indigibilli Harshit has three hackathon wins: first place at the IBM ICE Ideathon 2025 (RHPA), first place in the Sustainable Cities theme at the WeAther & Climate Hackathon (WATCH) 2024 (Eco-Yatra), and winner of the SSU Innovation Makeathon 2023 by Openweaver. He was also runner-up at the IBM ICE Technical Paper Presentation 2024 and a finalist in the Action Plan Social Innovation Track at Abhyuday, IIT Bombay (2024–25).
 
 ## Profiles
 
